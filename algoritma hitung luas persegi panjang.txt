@@ -1,0 +1,6 @@
+Algoritma Menghitung Luas Persegi Panjang:
+
+1. Inputkan panjang
+2. Inputkan lebar
+3. Rumus untuk menghitung L  yaitu L= p*l
+4. Nilai  L (Luas ) akan dicetak sebagai output ke perangkat output (keluaran)
